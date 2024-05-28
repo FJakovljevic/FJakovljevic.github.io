@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Filip Jakovljevic"
-  avatar           : "/assets/images/bio_portret.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I see myself as a creative person who enjoys challenges and finding solutions to problems, therefore I actively look to develop and learn new things."
   location         : "Serbia"
   email            :
