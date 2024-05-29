@@ -65,6 +65,7 @@ small,
 
 p {
   margin-bottom: 1.3em;
+  text-align: justify;
 }
 
 u,
@@ -336,4 +337,13 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+.no-decoration {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit the text color from parent elements */
+}
+
+.no-decoration:visited {
+  color: inherit; /* Ensure visited links don't change color */
 }
