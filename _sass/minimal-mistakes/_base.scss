@@ -347,3 +347,10 @@ input[type="submit"],
 .no-decoration:visited {
   color: inherit; /* Ensure visited links don't change color */
 }
+
+.streamilt_whole_space_iframe {
+  display: block;
+  border: none;
+  height: 90vh;
+  width: 100%;
+}
