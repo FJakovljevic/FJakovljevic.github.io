@@ -8,9 +8,8 @@
 
   {% for f in feature_row %}
 
-    {% if f.url %} <a href="{{ f.url | relative_url }}" class="no-decoration">{% endif %}
-
       <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+        {% if f.url %} <a href="{{ f.url | relative_url }}" class="no-decoration">{% endif %}
         <div class="archive__item">
 
           <div class="archive__item-body">
@@ -36,9 +35,8 @@
 
           </div>
         </div>
+        {% if f.url %}</a>{% endif %}
       </div>
-
-    {% if f.url %}</a>{% endif %}
 
   {% endfor %}
 
