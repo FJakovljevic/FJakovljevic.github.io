@@ -19,7 +19,7 @@ I see myself as a creative person who enjoys challenges and finding solutions to
 
 I am an experienced Python Developer and Machine Learning Engineer, that has worked on a wide variety of projects, ranging from Generative AI (Chatbots, Prompt Engineering), NLP (Natural Language Processing), Computer Vision, creating ETL pipelines in PySpark and Pandas to developing GIS (Geographic Information System) solutions in finance industry. As part of my career, I have had the experience of being a team lead, and I've learned that anything is possible when a group of individuals work together towards a common goal. This role has taught me the importance of effective communication, collaboration, and developing the strengths of team members and how to set clear goals.
 
-Currently working al and ML Team lead at company called Synechron.
+Currently working as ML Team Lead at company called Synechron.
 
 <br>
 <center>
