@@ -34,7 +34,7 @@ Currently working as ML Team Lead at company called Synechron.
 - **Bachelor with Honours in Electrical and Computer Engineering (B.Elec.Comp.Eng.)** - Faculty of Technical Sciences University of Novi Sad
     - done an exchange semester at Bialystok University of Technology
 
-### Personal Interests
+### Personal Interests:
 
 Beyond my professional life, I immerse myself in various creative and physical pursuits. I spent a significant part of my life dancing; I enjoy the rhythms and movements of Bachata, Kizomba, and Argentine tango.
 
