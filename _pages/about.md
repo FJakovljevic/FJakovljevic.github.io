@@ -36,11 +36,11 @@ Currently working as ML Team Lead at company called Synechron.
 
 ### Personal Interests:
 
-Beyond my professional life, I immerse myself in various creative and physical pursuits. I spent a significant part of my life dancing; I enjoy the rhythms and movements of Bachata, Kizomba, and Argentine tango.
+Beyond my professional life, I immerse myself in various creative and physical pursuits. I spent a significant part of my life dancing; I enjoy the rhythms and movements of Bachata, Kizomba, and Argentine Tango.
 
-Traveling is another passion of mine, and I cherish the experiences and perspectives it brings. As a photography enthusiast, I capture the palaces to where i travel through the lens of my Sony α7 II, finding beauty in all parts of world.
+Traveling is another passion of mine, and I cherish the experiences and perspectives it brings. As a photography enthusiast, I capture the palaces where I travel through the lens of my Sony α7 II, finding beauty in all parts of world.
 
-While I often find myself deep in code, I strive to read more books to broaden my horizons. From time to time i like to do a DIY home project and fixes.
+While I often find myself deep in code, I strive to read more books to broaden my horizons. From time to time i like to do a DIY home projects and fixes.
 
 Staying physically active and enjoying the outdoors are also something important to me. And I play DnD...
 
