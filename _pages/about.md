@@ -30,8 +30,8 @@ Currently working as ML Team Lead at company called Synechron.
 
 ### My Education:
 
-**Master in Electrical and Computer Engineering (M.El.Comp.Eng.)** - Faculty of Technical Sciences University of Novi Sad
-**Bachelor with Honours in Electrical and Computer Engineering (B.Elec.Comp.Eng.)** - Faculty of Technical Sciences University of Novi Sad
+- **Master in Electrical and Computer Engineering (M.El.Comp.Eng.)** - Faculty of Technical Sciences University of Novi Sad
+- **Bachelor with Honours in Electrical and Computer Engineering (B.Elec.Comp.Eng.)** - Faculty of Technical Sciences University of Novi Sad
     - done an exchange semester at Bialystok University of Technology
 
 ### Personal Interests
